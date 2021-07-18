@@ -1,0 +1,281 @@
+16/07/2021 11:40:26 PM - WebDriverFactory - INFO - Inside Init of webdriver factory
+16/07/2021 11:40:33 PM - LoginPage - INFO - Inside Init of Login Page
+16/07/2021 11:40:33 PM - LoginPage - INFO - Inside Init of seleniumDriver
+16/07/2021 11:40:33 PM - LoginPage - INFO - Inside Init of Login Page after super call
+16/07/2021 11:40:33 PM - CheckStatus - INFO - Inside Init of seleniumDriver
+16/07/2021 11:40:33 PM - LoginPage - INFO - Element found with locator :: //a[contains(@href, 'login')] and locatorType :: xpath
+16/07/2021 11:40:35 PM - LoginPage - INFO - Clicked on the element with locator :: //a[contains(@href, 'login')] Locator Type as :: xpath
+16/07/2021 11:40:35 PM - LoginPage - INFO - Element found with locator :: email and locatorType :: id
+16/07/2021 11:40:35 PM - LoginPage - INFO - Element found with locator :: password and locatorType :: id
+16/07/2021 11:40:35 PM - LoginPage - INFO - Element found with locator :: email and locatorType :: id
+16/07/2021 11:40:35 PM - LoginPage - INFO - Sent data on the element with locator :: email Locator Type as :: id
+16/07/2021 11:40:35 PM - LoginPage - INFO - Element found with locator :: password and locatorType :: id
+16/07/2021 11:40:35 PM - LoginPage - INFO - Sent data on the element with locator :: password Locator Type as :: id
+16/07/2021 11:40:37 PM - LoginPage - INFO - Element found with locator :: //input[contains(@type, 'submit')] and locatorType :: xpath
+16/07/2021 11:40:39 PM - LoginPage - INFO - Clicked on the element with locator :: //input[contains(@type, 'submit')] Locator Type as :: xpath
+16/07/2021 11:40:39 PM - LoginPage - INFO - Element found with locator :: //span[contains(text(), 'Your username or password is invalid. Please try again.')] and locatorType :: xpath
+16/07/2021 11:40:39 PM - LoginPage - INFO - Element found
+16/07/2021 11:40:39 PM - LoginPage - INFO - Inside Init of Login Page
+16/07/2021 11:40:39 PM - LoginPage - INFO - Inside Init of seleniumDriver
+16/07/2021 11:40:39 PM - LoginPage - INFO - Inside Init of Login Page after super call
+16/07/2021 11:40:39 PM - CheckStatus - INFO - Inside Init of seleniumDriver
+16/07/2021 11:40:39 PM - LoginPage - INFO - Element found with locator :: //a[contains(@href, 'login')] and locatorType :: xpath
+16/07/2021 11:40:40 PM - LoginPage - INFO - Clicked on the element with locator :: //a[contains(@href, 'login')] Locator Type as :: xpath
+16/07/2021 11:40:40 PM - LoginPage - INFO - Element found with locator :: email and locatorType :: id
+16/07/2021 11:40:40 PM - LoginPage - INFO - Element found with locator :: password and locatorType :: id
+16/07/2021 11:40:40 PM - LoginPage - INFO - Element found with locator :: email and locatorType :: id
+16/07/2021 11:40:40 PM - LoginPage - INFO - Sent data on the element with locator :: email Locator Type as :: id
+16/07/2021 11:40:40 PM - LoginPage - INFO - Element found with locator :: password and locatorType :: id
+16/07/2021 11:40:40 PM - LoginPage - INFO - Sent data on the element with locator :: password Locator Type as :: id
+16/07/2021 11:40:42 PM - LoginPage - INFO - Element found with locator :: //input[contains(@type, 'submit')] and locatorType :: xpath
+16/07/2021 11:40:50 PM - LoginPage - INFO - Clicked on the element with locator :: //input[contains(@type, 'submit')] Locator Type as :: xpath
+16/07/2021 11:40:50 PM - Util - INFO - Actual text from application web UI : All Courses
+16/07/2021 11:40:50 PM - Util - INFO - Expected text from application web UI : Google
+16/07/2021 11:40:50 PM - Util - INFO - ## VERIFICATION DOES NOT CONTAINS...!
+16/07/2021 11:40:50 PM - CheckStatus - ERROR - ### VERIFICATION FAILED :: Title Verification
+16/07/2021 11:40:50 PM - CheckStatus - INFO - Screenshot saved to directory: C:\Users\SAURABH\PycharmProjects\automation\base\../screenshots/Title Verification.1626459050632.png
+16/07/2021 11:40:50 PM - LoginPage - INFO - Element found with locator :: dropdownMenu1 and locatorType :: id
+16/07/2021 11:40:50 PM - LoginPage - INFO - Element found
+16/07/2021 11:40:50 PM - CheckStatus - INFO - ### VERIFICATION SUCCESSFUL :: Login Failed
+16/07/2021 11:40:50 PM - CheckStatus - ERROR - test_valid_login### TEST FAILED
+17/07/2021 12:27:50 AM - WebDriverFactory - INFO - Inside Init of webdriver factory
+17/07/2021 12:27:59 AM - LoginPage - INFO - Inside Init of Login Page
+17/07/2021 12:27:59 AM - LoginPage - INFO - Inside Init of seleniumDriver
+17/07/2021 12:27:59 AM - LoginPage - INFO - Inside Init of Login Page after super call
+17/07/2021 12:27:59 AM - CheckStatus - INFO - Inside Init of seleniumDriver
+17/07/2021 12:27:59 AM - LoginPage - INFO - Element found with locator :: //a[contains(@href, 'login')] and locatorType :: xpath
+17/07/2021 12:28:01 AM - LoginPage - INFO - Clicked on the element with locator :: //a[contains(@href, 'login')] Locator Type as :: xpath
+17/07/2021 12:28:01 AM - LoginPage - INFO - Element found with locator :: email and locatorType :: id
+17/07/2021 12:28:01 AM - LoginPage - INFO - Element found with locator :: password and locatorType :: id
+17/07/2021 12:28:01 AM - LoginPage - INFO - Element found with locator :: email and locatorType :: id
+17/07/2021 12:28:01 AM - LoginPage - INFO - Sent data on the element with locator :: email Locator Type as :: id
+17/07/2021 12:28:01 AM - LoginPage - INFO - Element found with locator :: password and locatorType :: id
+17/07/2021 12:28:01 AM - LoginPage - INFO - Sent data on the element with locator :: password Locator Type as :: id
+17/07/2021 12:28:03 AM - LoginPage - INFO - Element found with locator :: //input[contains(@type, 'submit')] and locatorType :: xpath
+17/07/2021 12:28:05 AM - LoginPage - INFO - Clicked on the element with locator :: //input[contains(@type, 'submit')] Locator Type as :: xpath
+17/07/2021 12:28:05 AM - LoginPage - INFO - Element found with locator :: //span[contains(text(), 'Your username or password is invalid. Please try again.')] and locatorType :: xpath
+17/07/2021 12:28:05 AM - LoginPage - INFO - Element found with locator : //span[contains(text(), 'Your username or password is invalid. Please try again.')] locatorType :xpath
+17/07/2021 12:28:05 AM - LoginPage - INFO - Inside Init of Login Page
+17/07/2021 12:28:05 AM - LoginPage - INFO - Inside Init of seleniumDriver
+17/07/2021 12:28:05 AM - LoginPage - INFO - Inside Init of Login Page after super call
+17/07/2021 12:28:05 AM - CheckStatus - INFO - Inside Init of seleniumDriver
+17/07/2021 12:28:05 AM - LoginPage - INFO - Element found with locator :: //a[contains(@href, 'login')] and locatorType :: xpath
+17/07/2021 12:28:06 AM - LoginPage - INFO - Clicked on the element with locator :: //a[contains(@href, 'login')] Locator Type as :: xpath
+17/07/2021 12:28:06 AM - LoginPage - INFO - Element found with locator :: email and locatorType :: id
+17/07/2021 12:28:06 AM - LoginPage - INFO - Element found with locator :: password and locatorType :: id
+17/07/2021 12:28:06 AM - LoginPage - INFO - Element found with locator :: email and locatorType :: id
+17/07/2021 12:28:06 AM - LoginPage - INFO - Sent data on the element with locator :: email Locator Type as :: id
+17/07/2021 12:28:06 AM - LoginPage - INFO - Element found with locator :: password and locatorType :: id
+17/07/2021 12:28:06 AM - LoginPage - INFO - Sent data on the element with locator :: password Locator Type as :: id
+17/07/2021 12:28:08 AM - LoginPage - INFO - Element found with locator :: //input[contains(@type, 'submit')] and locatorType :: xpath
+17/07/2021 12:28:17 AM - LoginPage - INFO - Clicked on the element with locator :: //input[contains(@type, 'submit')] Locator Type as :: xpath
+17/07/2021 12:28:17 AM - Util - INFO - Actual text from application web UI : All Courses
+17/07/2021 12:28:17 AM - Util - INFO - Expected text from application web UI : Google
+17/07/2021 12:28:17 AM - Util - INFO - ## VERIFICATION DOES NOT CONTAINS...!
+17/07/2021 12:28:17 AM - CheckStatus - ERROR - ### VERIFICATION FAILED :: Title Verification
+17/07/2021 12:28:17 AM - CheckStatus - INFO - Screenshot saved to directory: C:\Users\SAURABH\PycharmProjects\automation\base\../screenshots/Title Verification.1626461897130.png
+17/07/2021 12:28:17 AM - LoginPage - INFO - Element found with locator :: dropdownMenu1 and locatorType :: id
+17/07/2021 12:28:17 AM - LoginPage - INFO - Element found with locator : dropdownMenu1 locatorType :id
+17/07/2021 12:28:17 AM - CheckStatus - INFO - ### VERIFICATION SUCCESSFUL :: Login Failed
+17/07/2021 12:28:17 AM - CheckStatus - ERROR - test_valid_login### TEST FAILED
+18/07/2021 06:32:02 AM - WebDriverFactory - INFO - Inside Init of webdriver factory
+18/07/2021 06:32:14 AM - LoginPage - INFO - Inside Init of seleniumDriver
+18/07/2021 06:32:14 AM - NavigationPage - INFO - Inside Init of seleniumDriver
+18/07/2021 06:32:14 AM - LoginPage - INFO - Element found with locator :: //a[contains(@href, 'login')] and locatorType :: xpath
+18/07/2021 06:32:15 AM - LoginPage - INFO - Clicked on the element with locator :: //a[contains(@href, 'login')] Locator Type as :: xpath
+18/07/2021 06:32:15 AM - LoginPage - INFO - Element found with locator :: email and locatorType :: id
+18/07/2021 06:32:15 AM - LoginPage - INFO - Element found with locator :: password and locatorType :: id
+18/07/2021 06:32:15 AM - LoginPage - INFO - Element found with locator :: email and locatorType :: id
+18/07/2021 06:32:15 AM - LoginPage - INFO - Sent data on element with locator: email locatorType: id
+18/07/2021 06:32:15 AM - LoginPage - INFO - Element found with locator :: password and locatorType :: id
+18/07/2021 06:32:15 AM - LoginPage - INFO - Sent data on element with locator: password locatorType: id
+18/07/2021 06:32:17 AM - LoginPage - INFO - Element found with locator :: //input[contains(@type, 'submit')] and locatorType :: xpath
+18/07/2021 06:32:26 AM - LoginPage - INFO - Clicked on the element with locator :: //input[contains(@type, 'submit')] Locator Type as :: xpath
+18/07/2021 06:32:26 AM - RegisterCoursesPage - INFO - Inside Init of seleniumDriver
+18/07/2021 06:32:26 AM - CheckStatus - INFO - Inside Init of seleniumDriver
+18/07/2021 06:32:26 AM - NavigationPage - INFO - Inside Init of seleniumDriver
+18/07/2021 06:32:26 AM - NavigationPage - INFO - Element found with locator :: ALL COURSES and locatorType :: link
+18/07/2021 06:32:28 AM - NavigationPage - INFO - Clicked on the element with locator :: ALL COURSES Locator Type as :: link
+18/07/2021 06:32:28 AM - RegisterCoursesPage - INFO - Element found with locator :: //input[contains(@id, 'search')] and locatorType :: xpath
+18/07/2021 06:32:28 AM - RegisterCoursesPage - INFO - Sent data on element with locator: //input[contains(@id, 'search')] locatorType: xpath
+18/07/2021 06:32:28 AM - RegisterCoursesPage - INFO - Element found with locator :: //button[contains(@type, 'submit')] and locatorType :: xpath
+18/07/2021 06:32:28 AM - RegisterCoursesPage - INFO - Clicked on the element with locator :: //button[contains(@type, 'submit')] Locator Type as :: xpath
+18/07/2021 06:32:29 AM - RegisterCoursesPage - INFO - Element found with locator :: //div[contains(@id, 'course-list')]//following::h4[contains(text(), 'JavaScript for beginners')] and locatorType :: xpath
+18/07/2021 06:32:33 AM - RegisterCoursesPage - INFO - Clicked on the element with locator :: //div[contains(@id, 'course-list')]//following::h4[contains(text(), 'JavaScript for beginners')] Locator Type as :: xpath
+18/07/2021 06:32:34 AM - RegisterCoursesPage - INFO - Element found with locator :: //button[contains(text(), 'Enroll in Course')] and locatorType :: xpath
+18/07/2021 06:32:41 AM - RegisterCoursesPage - INFO - Clicked on the element with locator :: //button[contains(text(), 'Enroll in Course')] Locator Type as :: xpath
+18/07/2021 06:32:43 AM - RegisterCoursesPage - INFO - Element list found with locator : //iframe and LocatorType xpath
+18/07/2021 06:32:43 AM - RegisterCoursesPage - INFO - Length of iframe list: 
+18/07/2021 06:32:43 AM - RegisterCoursesPage - INFO - 8
+18/07/2021 06:32:43 AM - RegisterCoursesPage - INFO - Switch frame with index:
+18/07/2021 06:32:43 AM - RegisterCoursesPage - INFO - <selenium.webdriver.remote.webelement.WebElement (session="3ff4f367c47be3c4eb24cec8f3cadb66", element="2bb0b82c-b79d-4f5e-9fd1-8b8417a20809")>
+18/07/2021 06:32:43 AM - RegisterCoursesPage - INFO - Element found with locator :: //input[contains(@placeholder,'Card Number')] and locatorType :: xpath
+18/07/2021 06:32:43 AM - RegisterCoursesPage - INFO - Element found with locator : //input[contains(@placeholder,'Card Number')] locatorType :xpath
+18/07/2021 06:32:43 AM - RegisterCoursesPage - INFO - iframe index is:
+18/07/2021 06:32:43 AM - RegisterCoursesPage - INFO - 0
+18/07/2021 06:32:43 AM - RegisterCoursesPage - INFO - Waiting for maximum :: 10 :: seconds for element to be visible
+18/07/2021 06:32:43 AM - RegisterCoursesPage - INFO - Element appeared on the web page
+18/07/2021 06:32:43 AM - RegisterCoursesPage - DEBUG - Text is not sent by xpath in field so i will try to send string char by char!
+18/07/2021 06:32:44 AM - RegisterCoursesPage - INFO - Sent data on element with locator: //input[contains(@placeholder,'Card Number')] locatorType: xpath
+18/07/2021 06:32:44 AM - RegisterCoursesPage - INFO - Element list found with locator : //iframe and LocatorType xpath
+18/07/2021 06:32:44 AM - RegisterCoursesPage - INFO - Length of iframe list: 
+18/07/2021 06:32:44 AM - RegisterCoursesPage - INFO - 8
+18/07/2021 06:32:44 AM - RegisterCoursesPage - INFO - Switch frame with index:
+18/07/2021 06:32:44 AM - RegisterCoursesPage - INFO - <selenium.webdriver.remote.webelement.WebElement (session="3ff4f367c47be3c4eb24cec8f3cadb66", element="2bb0b82c-b79d-4f5e-9fd1-8b8417a20809")>
+18/07/2021 06:32:54 AM - RegisterCoursesPage - ERROR - Element not found :: //input[contains(@placeholder,'MM / YY')] and locatorType :: xpath
+18/07/2021 06:32:54 AM - RegisterCoursesPage - INFO - Element not found
+18/07/2021 06:32:54 AM - RegisterCoursesPage - INFO - Switch frame with index:
+18/07/2021 06:32:54 AM - RegisterCoursesPage - INFO - <selenium.webdriver.remote.webelement.WebElement (session="3ff4f367c47be3c4eb24cec8f3cadb66", element="c3d88c21-aca1-4a2b-b744-446770ce1702")>
+18/07/2021 06:32:54 AM - RegisterCoursesPage - INFO - Element found with locator :: //input[contains(@placeholder,'MM / YY')] and locatorType :: xpath
+18/07/2021 06:32:54 AM - RegisterCoursesPage - INFO - Element found with locator : //input[contains(@placeholder,'MM / YY')] locatorType :xpath
+18/07/2021 06:32:54 AM - RegisterCoursesPage - INFO - iframe index is:
+18/07/2021 06:32:54 AM - RegisterCoursesPage - INFO - 1
+18/07/2021 06:32:54 AM - RegisterCoursesPage - INFO - Element found with locator :: //input[contains(@placeholder,'MM / YY')] and locatorType :: xpath
+18/07/2021 06:32:54 AM - RegisterCoursesPage - INFO - Sent data on element with locator: //input[contains(@placeholder,'MM / YY')] locatorType: xpath
+18/07/2021 06:32:54 AM - RegisterCoursesPage - INFO - Element list found with locator : //iframe and LocatorType xpath
+18/07/2021 06:32:54 AM - RegisterCoursesPage - INFO - Length of iframe list: 
+18/07/2021 06:32:54 AM - RegisterCoursesPage - INFO - 8
+18/07/2021 06:32:54 AM - RegisterCoursesPage - INFO - Switch frame with index:
+18/07/2021 06:32:54 AM - RegisterCoursesPage - INFO - <selenium.webdriver.remote.webelement.WebElement (session="3ff4f367c47be3c4eb24cec8f3cadb66", element="2bb0b82c-b79d-4f5e-9fd1-8b8417a20809")>
+18/07/2021 06:33:04 AM - RegisterCoursesPage - ERROR - Element not found :: //input[contains(@placeholder,'Security Code')] and locatorType :: xpath
+18/07/2021 06:33:04 AM - RegisterCoursesPage - INFO - Element not found
+18/07/2021 06:33:04 AM - RegisterCoursesPage - INFO - Switch frame with index:
+18/07/2021 06:33:04 AM - RegisterCoursesPage - INFO - <selenium.webdriver.remote.webelement.WebElement (session="3ff4f367c47be3c4eb24cec8f3cadb66", element="c3d88c21-aca1-4a2b-b744-446770ce1702")>
+18/07/2021 06:33:14 AM - RegisterCoursesPage - ERROR - Element not found :: //input[contains(@placeholder,'Security Code')] and locatorType :: xpath
+18/07/2021 06:33:14 AM - RegisterCoursesPage - INFO - Element not found
+18/07/2021 06:33:14 AM - RegisterCoursesPage - INFO - Switch frame with index:
+18/07/2021 06:33:14 AM - RegisterCoursesPage - INFO - <selenium.webdriver.remote.webelement.WebElement (session="3ff4f367c47be3c4eb24cec8f3cadb66", element="5fa451d3-d7f9-4da7-a024-586e2fe4b171")>
+18/07/2021 06:33:14 AM - RegisterCoursesPage - INFO - Element found with locator :: //input[contains(@placeholder,'Security Code')] and locatorType :: xpath
+18/07/2021 06:33:14 AM - RegisterCoursesPage - INFO - Element found with locator : //input[contains(@placeholder,'Security Code')] locatorType :xpath
+18/07/2021 06:33:14 AM - RegisterCoursesPage - INFO - iframe index is:
+18/07/2021 06:33:14 AM - RegisterCoursesPage - INFO - 2
+18/07/2021 06:33:14 AM - RegisterCoursesPage - INFO - Element found with locator :: //input[contains(@placeholder,'Security Code')] and locatorType :: xpath
+18/07/2021 06:33:14 AM - RegisterCoursesPage - INFO - Sent data on element with locator: //input[contains(@placeholder,'Security Code')] locatorType: xpath
+18/07/2021 06:33:14 AM - RegisterCoursesPage - INFO - Element found with locator :: //button[contains(@class, 'zen-subscribe')] and locatorType :: xpath
+18/07/2021 06:33:14 AM - RegisterCoursesPage - INFO - Clicked on the element with locator :: //button[contains(@class, 'zen-subscribe')] Locator Type as :: xpath
+18/07/2021 06:33:15 AM - RegisterCoursesPage - INFO - Waiting for maximum :: 10 :: seconds for element to be clickable
+18/07/2021 06:33:38 AM - RegisterCoursesPage - INFO - Element not appeared on the web page
+18/07/2021 06:33:38 AM - RegisterCoursesPage - INFO - Element is not displayed with locator :  locatorType :id
+18/07/2021 06:33:38 AM - CheckStatus - INFO - ### VERIFICATION SUCCESSFUL :: Enrollment Failed Verification
+18/07/2021 06:33:38 AM - CheckStatus - INFO - test_invalidEnrollment### TEST SUCCESSFUL
+18/07/2021 06:33:38 AM - RegisterCoursesPage - INFO - Inside Init of seleniumDriver
+18/07/2021 06:33:38 AM - CheckStatus - INFO - Inside Init of seleniumDriver
+18/07/2021 06:33:38 AM - NavigationPage - INFO - Inside Init of seleniumDriver
+18/07/2021 06:33:38 AM - NavigationPage - INFO - Element found with locator :: ALL COURSES and locatorType :: link
+18/07/2021 06:33:47 AM - NavigationPage - INFO - Clicked on the element with locator :: ALL COURSES Locator Type as :: link
+18/07/2021 06:33:47 AM - RegisterCoursesPage - INFO - Element found with locator :: //input[contains(@id, 'search')] and locatorType :: xpath
+18/07/2021 06:33:47 AM - RegisterCoursesPage - INFO - Sent data on element with locator: //input[contains(@id, 'search')] locatorType: xpath
+18/07/2021 06:33:47 AM - RegisterCoursesPage - INFO - Element found with locator :: //button[contains(@type, 'submit')] and locatorType :: xpath
+18/07/2021 06:33:47 AM - RegisterCoursesPage - INFO - Clicked on the element with locator :: //button[contains(@type, 'submit')] Locator Type as :: xpath
+18/07/2021 06:33:49 AM - RegisterCoursesPage - INFO - Element found with locator :: //div[contains(@id, 'course-list')]//following::h4[contains(text(), 'Learn Python 3 from scratch')] and locatorType :: xpath
+18/07/2021 06:34:29 AM - RegisterCoursesPage - INFO - Clicked on the element with locator :: //div[contains(@id, 'course-list')]//following::h4[contains(text(), 'Learn Python 3 from scratch')] Locator Type as :: xpath
+18/07/2021 06:34:30 AM - RegisterCoursesPage - INFO - Element found with locator :: //button[contains(text(), 'Enroll in Course')] and locatorType :: xpath
+18/07/2021 06:35:11 AM - RegisterCoursesPage - INFO - Clicked on the element with locator :: //button[contains(text(), 'Enroll in Course')] Locator Type as :: xpath
+18/07/2021 06:35:13 AM - RegisterCoursesPage - INFO - Element list found with locator : //iframe and LocatorType xpath
+18/07/2021 06:35:13 AM - RegisterCoursesPage - INFO - Length of iframe list: 
+18/07/2021 06:35:13 AM - RegisterCoursesPage - INFO - 7
+18/07/2021 06:35:13 AM - RegisterCoursesPage - INFO - Switch frame with index:
+18/07/2021 06:35:13 AM - RegisterCoursesPage - INFO - <selenium.webdriver.remote.webelement.WebElement (session="3ff4f367c47be3c4eb24cec8f3cadb66", element="4e2b6665-a391-48b2-903f-8d33d211339c")>
+18/07/2021 06:35:13 AM - RegisterCoursesPage - INFO - Element found with locator :: //input[contains(@placeholder,'Card Number')] and locatorType :: xpath
+18/07/2021 06:35:13 AM - RegisterCoursesPage - INFO - Element found with locator : //input[contains(@placeholder,'Card Number')] locatorType :xpath
+18/07/2021 06:35:13 AM - RegisterCoursesPage - INFO - iframe index is:
+18/07/2021 06:35:13 AM - RegisterCoursesPage - INFO - 0
+18/07/2021 06:35:13 AM - RegisterCoursesPage - INFO - Waiting for maximum :: 10 :: seconds for element to be visible
+18/07/2021 06:35:13 AM - RegisterCoursesPage - INFO - Element appeared on the web page
+18/07/2021 06:35:13 AM - RegisterCoursesPage - DEBUG - Text is not sent by xpath in field so i will try to send string char by char!
+18/07/2021 06:35:14 AM - RegisterCoursesPage - INFO - Sent data on element with locator: //input[contains(@placeholder,'Card Number')] locatorType: xpath
+18/07/2021 06:35:14 AM - RegisterCoursesPage - INFO - Element list found with locator : //iframe and LocatorType xpath
+18/07/2021 06:35:14 AM - RegisterCoursesPage - INFO - Length of iframe list: 
+18/07/2021 06:35:14 AM - RegisterCoursesPage - INFO - 7
+18/07/2021 06:35:14 AM - RegisterCoursesPage - INFO - Switch frame with index:
+18/07/2021 06:35:14 AM - RegisterCoursesPage - INFO - <selenium.webdriver.remote.webelement.WebElement (session="3ff4f367c47be3c4eb24cec8f3cadb66", element="4e2b6665-a391-48b2-903f-8d33d211339c")>
+18/07/2021 06:35:24 AM - RegisterCoursesPage - ERROR - Element not found :: //input[contains(@placeholder,'MM / YY')] and locatorType :: xpath
+18/07/2021 06:35:24 AM - RegisterCoursesPage - INFO - Element not found
+18/07/2021 06:35:24 AM - RegisterCoursesPage - INFO - Switch frame with index:
+18/07/2021 06:35:24 AM - RegisterCoursesPage - INFO - <selenium.webdriver.remote.webelement.WebElement (session="3ff4f367c47be3c4eb24cec8f3cadb66", element="2c041163-6488-43b9-8d09-4ce56beb6572")>
+18/07/2021 06:35:24 AM - RegisterCoursesPage - INFO - Element found with locator :: //input[contains(@placeholder,'MM / YY')] and locatorType :: xpath
+18/07/2021 06:35:24 AM - RegisterCoursesPage - INFO - Element found with locator : //input[contains(@placeholder,'MM / YY')] locatorType :xpath
+18/07/2021 06:35:24 AM - RegisterCoursesPage - INFO - iframe index is:
+18/07/2021 06:35:24 AM - RegisterCoursesPage - INFO - 1
+18/07/2021 06:35:24 AM - RegisterCoursesPage - INFO - Element found with locator :: //input[contains(@placeholder,'MM / YY')] and locatorType :: xpath
+18/07/2021 06:35:24 AM - RegisterCoursesPage - INFO - Sent data on element with locator: //input[contains(@placeholder,'MM / YY')] locatorType: xpath
+18/07/2021 06:35:24 AM - RegisterCoursesPage - INFO - Element list found with locator : //iframe and LocatorType xpath
+18/07/2021 06:35:24 AM - RegisterCoursesPage - INFO - Length of iframe list: 
+18/07/2021 06:35:24 AM - RegisterCoursesPage - INFO - 7
+18/07/2021 06:35:24 AM - RegisterCoursesPage - INFO - Switch frame with index:
+18/07/2021 06:35:24 AM - RegisterCoursesPage - INFO - <selenium.webdriver.remote.webelement.WebElement (session="3ff4f367c47be3c4eb24cec8f3cadb66", element="4e2b6665-a391-48b2-903f-8d33d211339c")>
+18/07/2021 06:35:34 AM - RegisterCoursesPage - ERROR - Element not found :: //input[contains(@placeholder,'Security Code')] and locatorType :: xpath
+18/07/2021 06:35:34 AM - RegisterCoursesPage - INFO - Element not found
+18/07/2021 06:35:34 AM - RegisterCoursesPage - INFO - Switch frame with index:
+18/07/2021 06:35:34 AM - RegisterCoursesPage - INFO - <selenium.webdriver.remote.webelement.WebElement (session="3ff4f367c47be3c4eb24cec8f3cadb66", element="2c041163-6488-43b9-8d09-4ce56beb6572")>
+18/07/2021 06:35:44 AM - RegisterCoursesPage - ERROR - Element not found :: //input[contains(@placeholder,'Security Code')] and locatorType :: xpath
+18/07/2021 06:35:44 AM - RegisterCoursesPage - INFO - Element not found
+18/07/2021 06:35:44 AM - RegisterCoursesPage - INFO - Switch frame with index:
+18/07/2021 06:35:44 AM - RegisterCoursesPage - INFO - <selenium.webdriver.remote.webelement.WebElement (session="3ff4f367c47be3c4eb24cec8f3cadb66", element="b85d59af-5bb1-43e2-b69b-d04110cb7d93")>
+18/07/2021 06:35:44 AM - RegisterCoursesPage - INFO - Element found with locator :: //input[contains(@placeholder,'Security Code')] and locatorType :: xpath
+18/07/2021 06:35:44 AM - RegisterCoursesPage - INFO - Element found with locator : //input[contains(@placeholder,'Security Code')] locatorType :xpath
+18/07/2021 06:35:44 AM - RegisterCoursesPage - INFO - iframe index is:
+18/07/2021 06:35:44 AM - RegisterCoursesPage - INFO - 2
+18/07/2021 06:35:44 AM - RegisterCoursesPage - INFO - Element found with locator :: //input[contains(@placeholder,'Security Code')] and locatorType :: xpath
+18/07/2021 06:35:44 AM - RegisterCoursesPage - INFO - Sent data on element with locator: //input[contains(@placeholder,'Security Code')] locatorType: xpath
+18/07/2021 06:35:44 AM - RegisterCoursesPage - INFO - Element found with locator :: //button[contains(@class, 'zen-subscribe')] and locatorType :: xpath
+18/07/2021 06:35:44 AM - RegisterCoursesPage - INFO - Clicked on the element with locator :: //button[contains(@class, 'zen-subscribe')] Locator Type as :: xpath
+18/07/2021 06:35:45 AM - RegisterCoursesPage - INFO - Waiting for maximum :: 10 :: seconds for element to be clickable
+18/07/2021 06:35:56 AM - RegisterCoursesPage - INFO - Element not appeared on the web page
+18/07/2021 06:35:56 AM - RegisterCoursesPage - INFO - Element is not displayed with locator :  locatorType :id
+18/07/2021 06:35:56 AM - CheckStatus - INFO - ### VERIFICATION SUCCESSFUL :: Enrollment Failed Verification
+18/07/2021 06:35:56 AM - CheckStatus - INFO - test_invalidEnrollment### TEST SUCCESSFUL
+18/07/2021 06:35:56 AM - WebDriverFactory - INFO - Inside Init of webdriver factory
+18/07/2021 06:36:05 AM - LoginPage - INFO - Inside Init of seleniumDriver
+18/07/2021 06:36:05 AM - NavigationPage - INFO - Inside Init of seleniumDriver
+18/07/2021 06:36:05 AM - LoginPage - INFO - Element found with locator :: //a[contains(@href, 'login')] and locatorType :: xpath
+18/07/2021 06:36:06 AM - LoginPage - INFO - Clicked on the element with locator :: //a[contains(@href, 'login')] Locator Type as :: xpath
+18/07/2021 06:36:06 AM - LoginPage - INFO - Element found with locator :: email and locatorType :: id
+18/07/2021 06:36:06 AM - LoginPage - INFO - Element found with locator :: password and locatorType :: id
+18/07/2021 06:36:06 AM - LoginPage - INFO - Element found with locator :: email and locatorType :: id
+18/07/2021 06:36:06 AM - LoginPage - INFO - Sent data on element with locator: email locatorType: id
+18/07/2021 06:36:06 AM - LoginPage - INFO - Element found with locator :: password and locatorType :: id
+18/07/2021 06:36:06 AM - LoginPage - INFO - Sent data on element with locator: password locatorType: id
+18/07/2021 06:36:08 AM - LoginPage - INFO - Element found with locator :: //input[contains(@type, 'submit')] and locatorType :: xpath
+18/07/2021 06:36:19 AM - LoginPage - INFO - Clicked on the element with locator :: //input[contains(@type, 'submit')] Locator Type as :: xpath
+18/07/2021 06:36:19 AM - LoginPage - INFO - Inside Init of seleniumDriver
+18/07/2021 06:36:19 AM - NavigationPage - INFO - Inside Init of seleniumDriver
+18/07/2021 06:36:19 AM - CheckStatus - INFO - Inside Init of seleniumDriver
+18/07/2021 06:36:19 AM - NavigationPage - INFO - Element found with locator :: dropdownMenu1 and locatorType :: id
+18/07/2021 06:36:19 AM - NavigationPage - INFO - Clicked on the element with locator :: dropdownMenu1 Locator Type as :: id
+18/07/2021 06:36:19 AM - LoginPage - INFO - Element found with locator :: //a[contains(@href, 'logout')] and locatorType :: xpath
+18/07/2021 06:36:22 AM - LoginPage - INFO - Clicked on the element with locator :: //a[contains(@href, 'logout')] Locator Type as :: xpath
+18/07/2021 06:36:22 AM - LoginPage - INFO - Element found with locator :: //a[contains(@href, 'login')] and locatorType :: xpath
+18/07/2021 06:36:23 AM - LoginPage - INFO - Clicked on the element with locator :: //a[contains(@href, 'login')] Locator Type as :: xpath
+18/07/2021 06:36:23 AM - LoginPage - INFO - Element found with locator :: email and locatorType :: id
+18/07/2021 06:36:23 AM - LoginPage - INFO - Element found with locator :: password and locatorType :: id
+18/07/2021 06:36:23 AM - LoginPage - INFO - Element found with locator :: email and locatorType :: id
+18/07/2021 06:36:23 AM - LoginPage - INFO - Sent data on element with locator: email locatorType: id
+18/07/2021 06:36:23 AM - LoginPage - INFO - Element found with locator :: password and locatorType :: id
+18/07/2021 06:36:23 AM - LoginPage - INFO - Sent data on element with locator: password locatorType: id
+18/07/2021 06:36:25 AM - LoginPage - INFO - Element found with locator :: //input[contains(@type, 'submit')] and locatorType :: xpath
+18/07/2021 06:36:27 AM - LoginPage - INFO - Clicked on the element with locator :: //input[contains(@type, 'submit')] Locator Type as :: xpath
+18/07/2021 06:36:27 AM - LoginPage - INFO - Element found with locator :: //span[contains(text(), 'Your username or password is invalid. Please try again.')] and locatorType :: xpath
+18/07/2021 06:36:27 AM - LoginPage - INFO - Element found with locator : //span[contains(text(), 'Your username or password is invalid. Please try again.')] locatorType :xpath
+18/07/2021 06:36:27 AM - LoginPage - INFO - Inside Init of seleniumDriver
+18/07/2021 06:36:27 AM - NavigationPage - INFO - Inside Init of seleniumDriver
+18/07/2021 06:36:27 AM - CheckStatus - INFO - Inside Init of seleniumDriver
+18/07/2021 06:36:27 AM - LoginPage - INFO - Element found with locator :: //a[contains(@href, 'login')] and locatorType :: xpath
+18/07/2021 06:36:28 AM - LoginPage - INFO - Clicked on the element with locator :: //a[contains(@href, 'login')] Locator Type as :: xpath
+18/07/2021 06:36:28 AM - LoginPage - INFO - Element found with locator :: email and locatorType :: id
+18/07/2021 06:36:28 AM - LoginPage - INFO - Element found with locator :: password and locatorType :: id
+18/07/2021 06:36:28 AM - LoginPage - INFO - Element found with locator :: email and locatorType :: id
+18/07/2021 06:36:28 AM - LoginPage - INFO - Sent data on element with locator: email locatorType: id
+18/07/2021 06:36:28 AM - LoginPage - INFO - Element found with locator :: password and locatorType :: id
+18/07/2021 06:36:28 AM - LoginPage - INFO - Sent data on element with locator: password locatorType: id
+18/07/2021 06:36:30 AM - LoginPage - INFO - Element found with locator :: //input[contains(@type, 'submit')] and locatorType :: xpath
+18/07/2021 06:36:32 AM - LoginPage - INFO - Clicked on the element with locator :: //input[contains(@type, 'submit')] Locator Type as :: xpath
+18/07/2021 06:36:32 AM - Util - INFO - Actual text from application web UI : All Courses
+18/07/2021 06:36:32 AM - Util - INFO - Expected text from application web UI : Google
+18/07/2021 06:36:32 AM - Util - INFO - ## VERIFICATION DOES NOT CONTAINS...!
+18/07/2021 06:36:32 AM - CheckStatus - ERROR - ### VERIFICATION FAILED :: Title Verification
+18/07/2021 06:36:33 AM - CheckStatus - INFO - Screenshot saved to directory: C:\Users\SAURABH\PycharmProjects\automation\base\../screenshots/Title Verification.1626570392902.png
+18/07/2021 06:36:33 AM - LoginPage - INFO - Element found with locator :: dropdownMenu1 and locatorType :: id
+18/07/2021 06:36:33 AM - LoginPage - INFO - Element found with locator : dropdownMenu1 locatorType :id
+18/07/2021 06:36:33 AM - CheckStatus - INFO - ### VERIFICATION SUCCESSFUL :: Login Failed
+18/07/2021 06:36:33 AM - CheckStatus - ERROR - test_valid_login### TEST FAILED
